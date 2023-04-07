@@ -1,0 +1,58 @@
+body {
+	background-color: #13293D;
+	align-items: center;
+	justify-content: center;
+}
+
+.container {
+    display: flex;
+  	align-items: center;
+	justify-content: space-around;
+}
+
+.container-num {
+	display: flex;
+  	align-items: center;
+	background-color: black;
+	justify-content: center;
+	border-radius: 10px;
+}
+
+.hg {
+	display: flex;
+  	flex-direction: column;
+}
+
+h3 {
+	color: #FBFBFB;
+	text-align: center;
+	font-size: 100px;
+	margin-bottom: 0%;
+}
+
+p {
+	font-family: 'Cursed Timer ULiL', sans-serif;
+	color: #E52B2C;
+	font-size: 150px;
+}
+
+.btn-cont {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	margin-top: 10%;
+}
+
+.btn {
+	background-color: #E52B2C;
+	color: #FBFBFB;
+	font-size: 30px;
+	padding: 10px 20px;
+	border-radius: 10px;
+	border: none;
+}
+
+.btn:hover {
+	background-color: #FBFBFB;
+	color: #E52B2C;
+}
