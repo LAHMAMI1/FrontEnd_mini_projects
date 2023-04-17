@@ -7,7 +7,7 @@ Welcome to my GitHub repository where I showcase six mini projects in front-end 
 In this mini project, I will show you how to create a worker counter using HTML, CSS and JavaScript. The worker counter is a simple web application that displays the number of workers who have entered a certain area. The web page consists of a title, a two buttons and a counter. The title shows the name of the area, the buttons allows the user to increment the counter by one and to save the counter, and the counter shows the current number of workers in the area. The code is easy to understand and modify, and can be used for other purposes as well.
 </p>
 <p align="center">
-    <a href="https://codepen.io/LAHMAMI1/full/zYmGOGV">
+    <a target="_blank" href="https://codepen.io/LAHMAMI1/full/zYmGOGV">
       <img
         align="center"
         src="https://raw.githubusercontent.com/LAHMAMI1/FrontEnd_mini_projects/main/Worker_counter/worker%20counter.png"
@@ -15,9 +15,9 @@ In this mini project, I will show you how to create a worker counter using HTML,
     </a>
 </p>
 <p align="center">
-  <a href="https://codepen.io/LAHMAMI1/full/zYmGOGV">Live demo</a>
+  <a target="_blank" href="https://codepen.io/LAHMAMI1/full/zYmGOGV">Live demo</a>
   |
-  <a href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Worker_counter">Source code</a>
+  <a target="_blank" href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Worker_counter">Source code</a>
 </p>
 
 <h2>Basketball Scoreboard</h2>
@@ -25,7 +25,7 @@ In this mini project, I will show you how to create a worker counter using HTML,
 A Basketball Scoreboard landing page is a web page that displays the score and other information of a basketball game in real time. It is built with html, css and javascript, which are the standard technologies for creating dynamic and interactive web pages. Update the score and other elements on the page, and respond to user input or events.
 </p>
 <p align="center">
-    <a href="https://codepen.io/LAHMAMI1/full/wvYawMp">
+    <a target="_blank" href="https://codepen.io/LAHMAMI1/full/wvYawMp">
       <img
         align="center"
         src="https://raw.githubusercontent.com/LAHMAMI1/FrontEnd_mini_projects/main/Basketball_scoreboard/Basketball%20Scoreboard.png"
@@ -33,9 +33,9 @@ A Basketball Scoreboard landing page is a web page that displays the score and o
     </a>
 </p>
 <p align="center">
-  <a href="https://codepen.io/LAHMAMI1/full/wvYawMp">Live demo</a>
+  <a target="_blank" href="https://codepen.io/LAHMAMI1/full/wvYawMp">Live demo</a>
   |
-  <a href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Basketball_scoreboard">Source code</a>
+  <a target="_blank" href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Basketball_scoreboard">Source code</a>
 </p>
 
 <h2>Blackjack Game</h2>
@@ -43,7 +43,7 @@ A Basketball Scoreboard landing page is a web page that displays the score and o
 This is a mini project Blackjack Game that is built with HTML, CSS and JavaScript. The game has two buttons: start game and new card. The start game button initiates the game and deals two cards to the player and the dealer. The new card button allows the player to draw another card from the deck. The game shows the cards and the sum of each hand on the screen. The goal of the game is to get as close to 21 as possible without going over. The player wins if their sum is higher than the dealer's or if the dealer busts.
 </p>
 <p align="center">
-    <a href="https://codepen.io/LAHMAMI1/full/yLRNBJG">
+    <a target="_blank" href="https://codepen.io/LAHMAMI1/full/yLRNBJG">
       <img
         align="center"
         src="https://raw.githubusercontent.com/LAHMAMI1/FrontEnd_mini_projects/main/Blackjack_game/Blackjack%20Game.png"
@@ -51,9 +51,9 @@ This is a mini project Blackjack Game that is built with HTML, CSS and JavaScrip
     </a>
 </p>
 <p align="center">
-  <a href="https://codepen.io/LAHMAMI1/full/yLRNBJG">Live demo</a>
+  <a target="_blank" href="https://codepen.io/LAHMAMI1/full/yLRNBJG">Live demo</a>
   |
-  <a href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Blackjack_game">Source code</a>
+  <a target="_blank" href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Blackjack_game">Source code</a>
 </p>
 
 <h2>Password Generator</h2>
@@ -61,7 +61,7 @@ This is a mini project Blackjack Game that is built with HTML, CSS and JavaScrip
 A mini project password generator is a web application that can create random passwords for the user based on their preferences. The application is built with HTML, CSS, and JavaScript and has one button to generate two passwords at the same time.
 </p>
 <p align="center">
-    <a href="https://codepen.io/LAHMAMI1/full/jOeqRaO">
+    <a target="_blank" href="https://codepen.io/LAHMAMI1/full/jOeqRaO">
       <img
         align="center"
         src="https://raw.githubusercontent.com/LAHMAMI1/FrontEnd_mini_projects/main/Password_generator/Password%20Generator.png"
@@ -69,9 +69,9 @@ A mini project password generator is a web application that can create random pa
     </a>
 </p>
 <p align="center">
-  <a href="https://codepen.io/LAHMAMI1/full/jOeqRaO">Live demo</a>
+  <a target="_blank" href="https://codepen.io/LAHMAMI1/full/jOeqRaO">Live demo</a>
   |
-  <a href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Password_generator">Source code</a>
+  <a target="_blank" href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Password_generator">Source code</a>
 </p>
 
 <h2>Leads Tracker Chrome Extension</h2>
@@ -91,7 +91,7 @@ Leads Tracker Chrome Extension is a mini project that allows you to save and man
       />
 </p>
 <p align="center">
-  <a href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Leads_tracker_Chrome_extension">Source code</a>
+  <a target="_blank" href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Leads_tracker_Chrome_extension">Source code</a>
 </p>
 
 <h2>Unit Converter</h2>
@@ -99,7 +99,7 @@ Leads Tracker Chrome Extension is a mini project that allows you to save and man
 A mini project that I built with HTML, CSS and JavaScript is a unit converter. It has an input field where the user can enter a number and the output field shows the converted value in another unit. For example, the user can enter 10 meters and choose to convert it to feet, and the output will show 32.8084 feet. The unit converter can also handle conversions between liters and gallons, and between kilos and pounds. The project demonstrates how to use HTML elements, CSS styles and JavaScript functions to create a simple and useful web application.
 </p>
 <p align="center">
-    <a href="https://codepen.io/LAHMAMI1/full/ExdKJQm">
+    <a target="_blank" href="https://codepen.io/LAHMAMI1/full/ExdKJQm">
       <img
         align="center"
         src="https://raw.githubusercontent.com/LAHMAMI1/FrontEnd_mini_projects/main/Unit_converter/Unit%20Converter.png"
@@ -107,7 +107,7 @@ A mini project that I built with HTML, CSS and JavaScript is a unit converter. I
     </a>
 </p>
 <p align="center">
-  <a href="https://codepen.io/LAHMAMI1/full/ExdKJQm">Live demo</a>
+  <a target="_blank" href="https://codepen.io/LAHMAMI1/full/ExdKJQm">Live demo</a>
   |
-  <a href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Unit_converter">Source code</a>
+  <a target="_blank" href="https://github.com/LAHMAMI1/FrontEnd_mini_projects/tree/main/Unit_converter">Source code</a>
 </p>
