@@ -1,8 +1,9 @@
 body {
-    margin: 0;
+	margin: 0;
 	font-family: 'Inter', sans-serif;
 	background-color: #1F2937;
 }
+
 .container1 {
 	background-color: #6943FF;
 	color: #FFFFFF;
@@ -32,6 +33,7 @@ body {
 #input.resized {
 	width: 50%;
 }
+
 input:focus {
 	outline: none;
 }
@@ -79,4 +81,3 @@ input:focus {
 	color: #FFFFFF;
 	font-weight: 400;
 }
-

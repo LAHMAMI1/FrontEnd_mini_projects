@@ -5,7 +5,7 @@ let lg = document.getElementById("lg")
 let kp = document.getElementById("kp")
 
 
-btn.addEventListener("click", function() {
+btn.addEventListener("click", function () {
 	let num = input.value
 	let feet = num * 3.281
 	let gallon = num * 0.264
@@ -25,8 +25,8 @@ function resizeInput() {
 	const input = document.getElementById("input");
 	const value = input.value.length;
 	if (value > 2) {
-	  input.classList.add("resized");
+		input.classList.add("resized");
 	} else {
-	  input.classList.remove("resized");
+		input.classList.remove("resized");
 	}
 }
